@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://paorgk.github.io/pcR/sitemap.pcR.gz
